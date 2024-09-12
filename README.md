@@ -1,4 +1,4 @@
-# Scientific Writing in 2023 Fall Semester
+# Scientific Writing in 2024 Fall Semester
 *Scientific Writing* is a course for graduate students to learn reading literature and writing scientific reviews. It teaches fundamental skills in **scientific reading, presentation and writing**, which serves as the basis in their future research life.
 
 # Contents
